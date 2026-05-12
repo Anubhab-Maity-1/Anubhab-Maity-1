@@ -1,8 +1,8 @@
 # Hi, I'm Anubhab! 👋
 
 🎓 CSE Student | Kolkata, India  
-🌱 Currently learning DSA with C++  
-💻 Languages: C | Learning C++  
+🌱 Currently learning DSA with Java
+💻 Languages: C | Learning Java
 
 ---
 
