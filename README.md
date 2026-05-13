@@ -1,6 +1,6 @@
 # Hi, I'm Anubhab! 👋
 
-🎓 CSE Student | Bhubaneswar, India  
+🎓 CSE Student @KIIT | Bhubaneswar, India  
 🌱 Currently learning DSA with Java  
 💻 Languages: C | Java
 ---
