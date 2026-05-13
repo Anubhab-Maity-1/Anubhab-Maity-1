@@ -1,6 +1,6 @@
 # Hi, I'm Anubhab! 👋
 
-🎓 CSE Student | Kolkata, India  
+🎓 CSE Student | Bhubaneswar, India  
 🌱 Currently learning DSA with Java  
 💻 Languages: C | Java
 ---
