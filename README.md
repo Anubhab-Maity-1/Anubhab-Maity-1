@@ -27,9 +27,3 @@ I'm a Computer Science student passionate about building a strong foundation in 
 ## 📌 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anubhab-Maity-1/)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhabmaity)
