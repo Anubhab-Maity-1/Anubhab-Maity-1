@@ -24,19 +24,6 @@ I'm a Computer Science student passionate about building a strong foundation in 
 
 ---
 
-## 📊 DSA Progress
-
-| Topic | Status |
-|-------|--------|
-| Java Basics — Conditionals, Loops, Patterns | ⏳ Upcoming |
-| Functions + Arrays | ⏳ Upcoming |
-| Strings + Hashing | ⏳ Upcoming |
-| Linked Lists + Stacks + Queues | ⏳ Upcoming |
-| Trees + Graphs | ⏳ Upcoming |
-| Dynamic Programming | ⏳ Upcoming |
-
----
-
 ## 📌 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
